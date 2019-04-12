@@ -20,7 +20,7 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
-function Info() {
+function Businesscard() {
 
 	infoo =  'Businesscard' + '\n' +
 			'=====' + '\n' +
