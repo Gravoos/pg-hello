@@ -20,3 +20,16 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+function Info() {
+
+	info =  'Informacje' + '\n' +
+			'=====' + '\n' +
+			'Imie    :	Adrian   	   '+ '\n' + 
+			'Nazwisko:	Janik   	   '+ '\n' + 
+			'Strona	 :	None   		  ' + '\n' + 
+			'Rok studiów    :	Imgr  	  ' + '\n' + 
+				
+
+	navigator.notification.alert(info);
+	
+}
