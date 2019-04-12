@@ -27,7 +27,6 @@ function Businesscard() {
 			'Imie    :	Adrian   	   '+ '\n' + 
 			'Nazwisko:	Janik   	   '+ '\n' + 
 			'Strona	 :	None   		  ' + '\n' + 
-			'Rok studiów    :	Imgr  	  ' + '\n' + 
 				
 
 	navigator.notification.alert(infoo);
