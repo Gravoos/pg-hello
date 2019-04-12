@@ -22,7 +22,7 @@ function deviceInfo() {
 }
 function Info() {
 
-	info =  'Informacje' + '\n' +
+	infoo =  'Businesscard' + '\n' +
 			'=====' + '\n' +
 			'Imie    :	Adrian   	   '+ '\n' + 
 			'Nazwisko:	Janik   	   '+ '\n' + 
@@ -30,6 +30,6 @@ function Info() {
 			'Rok studiów    :	Imgr  	  ' + '\n' + 
 				
 
-	navigator.notification.alert(info);
+	navigator.notification.alert(infoo);
 	
 }
